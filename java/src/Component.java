@@ -4,6 +4,5 @@ public class Component {
         //1st comment
         //2nd comment
         //testing update button pull request
-        //testing new branch
     }
 }
